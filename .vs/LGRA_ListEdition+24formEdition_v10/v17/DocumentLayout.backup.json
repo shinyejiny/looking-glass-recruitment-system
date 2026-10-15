@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|c:\\users\\shin0\\onedrive - unitec nz\\project_lgra\\dead_final\\lgra_listedition\u002B24fromedition_v10\\lookingglassrecruitmentagency\\candidateskillassignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\candidateskillassignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\candidateskillassignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\candidateskillassignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\applicationremoveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\applicationremoveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employersreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employersreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\candidateskillremoveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\candidateskillremoveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\skilldeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\skilldeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\vacancyaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\vacancyaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\vacancydeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\vacancydeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\vacancydeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\vacancydeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employerdeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employerdeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|c:\\users\\shin0\\onedrive - unitec nz\\project_lgra\\dead_final\\lgra_listedition\u002B24fromedition_v10\\lookingglassrecruitmentagency\\applicationaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\applicationaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\applicationaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\applicationaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employerdeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employerdeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\candidateaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\candidateaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\candidateaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\candidateaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\employeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\employeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\lgragencydbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\lgragencydbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\lookingglassrecruitmentagency\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031F988F-9902-4C4F-9CC3-E9F49D789288}|LookingGlassRecruitmentAgency\\LookingGlassRecruitmentAgency.csproj|solutionrelative:lookingglassrecruitmentagency\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateSkillAssignForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:51:02.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:32:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployerAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:53:33.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployerDeleteForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:09:30.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\DataController.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\DataController.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\DataController.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\DataController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvyQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:01:22.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VacancyDeleteForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VacancyDeleteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\VacancyDeleteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:38.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VacancyAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\VacancyAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\VacancyAddForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\VacancyAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:36.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkillDeleteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\SkillDeleteForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\SkillDeleteForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\SkillDeleteForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\SkillDeleteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:31.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployerUpdateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerUpdateForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployerUpdateForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerUpdateForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployerUpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:24.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LGRAgencyDBDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\LGRAgencyDBDataSet.xsd",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\LGRAgencyDBDataSet.xsd",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\LGRAgencyDBDataSet.xsd",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\LGRAgencyDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-09-03T11:59:23.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployersReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployersReportForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployersReportForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployersReportForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployersReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:17.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateSkillRemoveForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillRemoveForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\CandidateSkillRemoveForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillRemoveForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\CandidateSkillRemoveForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:59:10.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationRemoveForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationRemoveForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\ApplicationRemoveForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationRemoveForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\ApplicationRemoveForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:58:49.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateSkillAssignForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\CandidateSkillAssignForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:58:42.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployerDeleteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployerDeleteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:58:35.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployerAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\EmployerAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\EmployerAddForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\EmployerAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:58:29.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\ApplicationAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\ApplicationAddForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\ApplicationAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:58:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:21:55.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\CandidateAddForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\CandidateAddForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\CandidateAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:21:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\MainForm.cs",
+              "RelativeDocumentMoniker": "LookingGlassRecruitmentAgency\\MainForm.cs",
+              "ToolTip": "C:\\Users\\shin0\\OneDrive - Unitec NZ\\PROJECT_LGRA\\Dead_Final\\LGRA_ListEdition\u002B24fromEdition_v10\\LookingGlassRecruitmentAgency\\MainForm.cs [Design]",
+              "RelativeToolTip": "LookingGlassRecruitmentAgency\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:19:13.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

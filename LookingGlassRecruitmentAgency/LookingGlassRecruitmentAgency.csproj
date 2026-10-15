@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{031F988F-9902-4C4F-9CC3-E9F49D789288}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LookingGlassRecruitmentAgency</RootNamespace>
+    <AssemblyName>LookingGlassRecruitmentAgency</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationAddForm.Designer.cs">
+      <DependentUpon>ApplicationAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationsReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationsReportForm.Designer.cs">
+      <DependentUpon>ApplicationsReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateAddForm.Designer.cs">
+      <DependentUpon>CandidateAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateDeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateDeleteForm.Designer.cs">
+      <DependentUpon>CandidateDeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateReportForm.Designer.cs">
+      <DependentUpon>CandidateReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateSkillAssignForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateSkillAssignForm.Designer.cs">
+      <DependentUpon>CandidateSkillAssignForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateSkillRemoveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateSkillRemoveForm.Designer.cs">
+      <DependentUpon>CandidateSkillRemoveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CandidateUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidateUpdateForm.Designer.cs">
+      <DependentUpon>CandidateUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataController.Designer.cs">
+      <DependentUpon>DataController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployerAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployerAddForm.Designer.cs">
+      <DependentUpon>EmployerAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployersReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployersReportForm.Designer.cs">
+      <DependentUpon>EmployersReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployerUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployerUpdateForm.Designer.cs">
+      <DependentUpon>EmployerUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployerDeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployerDeleteForm.Designer.cs">
+      <DependentUpon>EmployerDeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillAddForm.Designer.cs">
+      <DependentUpon>SkillAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillDeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillDeleteForm.Designer.cs">
+      <DependentUpon>SkillDeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LGRAgencyDBDataSet.cs">
+      <DependentUpon>LGRAgencyDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LGRAgencyDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LGRAgencyDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ApplicationRemoveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationRemoveForm.Designer.cs">
+      <DependentUpon>ApplicationRemoveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillReportForm.Designer.cs">
+      <DependentUpon>SkillReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillUpdateForm.Designer.cs">
+      <DependentUpon>SkillUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacanciesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacanciesReportForm.Designer.cs">
+      <DependentUpon>VacanciesReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancyAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancyAddForm.Designer.cs">
+      <DependentUpon>VacancyAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancyDeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancyDeleteForm.Designer.cs">
+      <DependentUpon>VacancyDeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancyFillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancyFillForm.Designer.cs">
+      <DependentUpon>VacancyFillForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancySkillAssignForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancySkillAssignForm.Designer.cs">
+      <DependentUpon>VacancySkillAssignForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancySkillRemoveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancySkillRemoveForm.Designer.cs">
+      <DependentUpon>VacancySkillRemoveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VacancyUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VacancyUpdateForm.Designer.cs">
+      <DependentUpon>VacancyUpdateForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ApplicationAddForm.resx">
+      <DependentUpon>ApplicationAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplicationsReportForm.resx">
+      <DependentUpon>ApplicationsReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateAddForm.resx">
+      <DependentUpon>CandidateAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateDeleteForm.resx">
+      <DependentUpon>CandidateDeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateReportForm.resx">
+      <DependentUpon>CandidateReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateSkillAssignForm.resx">
+      <DependentUpon>CandidateSkillAssignForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateSkillRemoveForm.resx">
+      <DependentUpon>CandidateSkillRemoveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidateUpdateForm.resx">
+      <DependentUpon>CandidateUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataController.resx">
+      <DependentUpon>DataController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployerAddForm.resx">
+      <DependentUpon>EmployerAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployersReportForm.resx">
+      <DependentUpon>EmployersReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployerUpdateForm.resx">
+      <DependentUpon>EmployerUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployerDeleteForm.resx">
+      <DependentUpon>EmployerDeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillAddForm.resx">
+      <DependentUpon>SkillAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillDeleteForm.resx">
+      <DependentUpon>SkillDeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ApplicationRemoveForm.resx">
+      <DependentUpon>ApplicationRemoveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillReportForm.resx">
+      <DependentUpon>SkillReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillUpdateForm.resx">
+      <DependentUpon>SkillUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacanciesReportForm.resx">
+      <DependentUpon>VacanciesReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancyAddForm.resx">
+      <DependentUpon>VacancyAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancyDeleteForm.resx">
+      <DependentUpon>VacancyDeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancyFillForm.resx">
+      <DependentUpon>VacancyFillForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancySkillAssignForm.resx">
+      <DependentUpon>VacancySkillAssignForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancySkillRemoveForm.resx">
+      <DependentUpon>VacancySkillRemoveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VacancyUpdateForm.resx">
+      <DependentUpon>VacancyUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LGRAgencyDBDataSet.xsc">
+      <DependentUpon>LGRAgencyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LGRAgencyDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LGRAgencyDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LGRAgencyDBDataSet.xss">
+      <DependentUpon>LGRAgencyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
